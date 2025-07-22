@@ -3,7 +3,7 @@ from tkinter import font as tkfont, messagebox
 from PIL import Image, ImageTk
 import os
 import subprocess
-import sys  # For reading username passed from login
+import sys
 
 # Get username from login (fallback = "Guest")
 username = sys.argv[1] if len(sys.argv) > 1 else "Guest"

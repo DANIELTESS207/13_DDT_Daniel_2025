@@ -44,5 +44,3 @@ entry_password.pack(pady=5)
 tk.Button(root, text="Login", command=login, bg="#3498db", fg="white").pack(pady=15)
 
 root.mainloop()
-
-print "welcome" 
