@@ -340,5 +340,29 @@
         "email": "123",
         "password": "123",
         "dob": "123"
+    },
+    {
+        "username": "Daniel Tess",
+        "email": "danieltess212@gmail.com",
+        "password": "D1",
+        "dob": "D1"
+    },
+    {
+        "username": "D1",
+        "email": "D1",
+        "password": "D1",
+        "dob": "D1"
+    },
+    {
+        "username": "D1",
+        "email": "D1",
+        "password": "D1",
+        "dob": "D1"
+    },
+    {
+        "username": "D1",
+        "email": "D1",
+        "password": "D1",
+        "dob": "D1"
     }
 ]
